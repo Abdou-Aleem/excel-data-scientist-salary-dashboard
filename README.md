@@ -1,13 +1,15 @@
 # Excel Salary Dashboard
 
-![Salary_Dashboard_Final_Dashboard](https://github.com/user-attachments/assets/ba43da84-1f91-4e83-9eb3-b4811dc2ce5b)
+
+![Salary Dashboard](https://github.com/user-attachments/assets/39412e25-863f-4780-9fae-71290658ed59)
 
 
 
 
 ### About the project
+---
 
-Navigating the data job market just got easier! This interactive Salary Dashboard
+Navigating the data job market just got easier! This interactive Salary Dashboard<br>
 is designed to help job seekers make informed career decisions by analyzing key trends in salaries, job titles, locations, and in-demand skills.
 
 
@@ -15,7 +17,8 @@ is designed to help job seekers make informed career decisions by analyzing key 
 
 
 ### Excel Skills Used
-The following Excel skills were utilized for analysis:
-📉 Charts
-🧮 Formulas and Functions
-❎ Data Validation
+---
+The following Excel skills were utilized for analysis:<br>
+📉 Charts<br>
+🧮 Formulas and Functions<br>
+❎ Data Validation<br>
