@@ -5,15 +5,16 @@
 
 
 
-### Introduction
+### About the project
 
 Navigating the data job market just got easier! This interactive Salary Dashboard
 is designed to help job seekers make informed career decisions by analyzing key trends in salaries, job titles, locations, and in-demand skills.
 
 
 
-### Excel Skills Used
 
+
+### Excel Skills Used
 The following Excel skills were utilized for analysis:
 📉 Charts
 🧮 Formulas and Functions
